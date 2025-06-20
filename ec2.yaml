@@ -22,7 +22,7 @@
 
   vars:
     ansible_python_interpreter: /usr/bin/python3.10
-    keypair: keypair02
+    keypair: Netflix
     instance_type: t2.micro
     image_id: ami-053b0d53c279acc90
     wait: yes
